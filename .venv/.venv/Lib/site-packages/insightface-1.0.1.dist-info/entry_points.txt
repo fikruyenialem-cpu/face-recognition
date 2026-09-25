@@ -1,0 +1,5 @@
+[console_scripts]
+insightface-cli = insightface.commands.insightface_cli:main
+insightface-desktop = insightface.gui.__main__:main
+insightface-eval-studio = insightface.gui.__main__:main
+insightface-gui = insightface.gui.__main__:main
